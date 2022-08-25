@@ -4,3 +4,4 @@ Using adversarial autoencoder we are generating the images of MNIST dataset afte
 
 # Generated Images
 
+<img src="Gen_imgs.png">
